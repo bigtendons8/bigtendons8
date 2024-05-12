@@ -1,8 +1,8 @@
-- im @bigtendons8
-- random high school script kiddie
-- i like ants, vocaloid, languages, and computers, among other things
-- i know python and a tiny bit of rust
-- would like to get into cybersecurity/backend development as a career
+random high school script kiddie
+https://bigtendons8.github.io/
+
+![bigtendons8 github stats](https://github-readme-stats.vercel.app/api?username=bigtendons8&show_icons=true&theme=default&layout=compact)
+![bigtendons8 top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigtendons8&theme=default&layout=compact)
 
 <!---
 bigtendons8/bigtendons8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
