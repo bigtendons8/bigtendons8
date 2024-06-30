@@ -1,4 +1,5 @@
 random high school script kiddie
+failed oucc with flying colours 💪
 https://bigtendons8.github.io/
 
 ![bigtendons8 github stats](https://github-readme-stats.vercel.app/api?username=bigtendons8&show_icons=true&theme=default&layout=compact)
