@@ -1,3 +1,5 @@
+hi, i'm james, but you can call me bigtendons8 cos it sounds cool.
+
 random high school script kiddie
 
 failed oxford university computing challenge with flying colours 💪
