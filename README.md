@@ -1,4 +1,4 @@
-hi, i'm bigtendons8 cos it sounds cool.
+hi, i'm bigtendons8
 
 random high school script kiddie
 
